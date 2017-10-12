@@ -1,0 +1,56 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 30px;
+  font-family: Trebuchet, sans-serif;
+  }
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: 500;
+	margin: 10px;
+	color: white;
+	display: inline;
+	text-align: left;	
+	}
+	
+h2 {
+	font-size: 45px;
+	color: #0097a7;
+}
+
+h3 {
+	font-size: 35px;
+	color: #0097a7;
+}
+
+p {
+	font-size: 15px;
+	color: darkgray;
+}
+
+.row container {
+	height: 600px;
+	margin: 20px;
+	}
+
+.slider {
+	height: 600px;
+	margin: 0 auto;
+}
+
+.slider-install {
+	width: 600px;
+	margin: 0 auto;
+}
+
+li {
+  font-size: 15px;
+  font-family: 'Avenir Next';
+  text-align: center;
+}
+

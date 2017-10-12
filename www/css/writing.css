@@ -1,0 +1,53 @@
+h2 {
+	font-size: 45px;
+	font-family: 'Avenir Next';
+	text-align: center;
+}
+
+.parallax-container {
+    height: 370px;
+    font-family: 'Avenir Next';
+}
+
+li {
+  font-size: 15px;
+  font-family: 'Avenir Next';
+}
+
+
+h1 {
+	font-size: 40px;
+	font-weight: 500;
+	font-family: 'Avenir Next';
+	margin: 10px;
+	color: white;
+	display: inline;
+	text-align: left;	
+	}
+	
+h6 {
+	font-size: 16px;
+	font-family: 'Avenir Next';
+	margin: 10px;
+	color: #1b5e20;
+	display: inline;
+	text-align: left;	
+	}
+
+h5 {
+	font-family: 'Avenir Next';
+	font-size: 19px;
+}
+
+p {
+	font-family: 'Avenir Next';
+	font-size: 14px;
+	margin: 0px;
+	}
+
+.collapsible-header {
+	font-family: 'Avenir Next';
+	font-size: 16px;
+	color: #388e3c;
+	font-weight: 500;
+	}
