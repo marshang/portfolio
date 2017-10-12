@@ -1,0 +1,34 @@
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 15px;
+  font-family: 'Avenir Next';
+}
+
+.parallax-container {
+    height: 350px;
+    font-family: 'Avenir Next';
+}
+
+
+.nav-wrapper h5 {
+	font-family: 'Avenir Next';
+	margin: 9px;
+	color: white;
+	}
+
+h2 {
+	font-size: 45px;
+	font-family: 'Avenir Next';
+	color: #1b5e20;
+	font-weight: 450;
+}
+
+li {
+  font-size: 15px;
+  font-family: 'Avenir Next';
+  text-align: center;
+}
